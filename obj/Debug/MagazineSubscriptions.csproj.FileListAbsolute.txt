@@ -1,0 +1,10 @@
+C:\Users\12679\source\repos\MagazineSubscriptions\MagazineSubscriptions\bin\Debug\MagazineSubscriptions.exe.config
+C:\Users\12679\source\repos\MagazineSubscriptions\MagazineSubscriptions\bin\Debug\MagazineSubscriptions.exe
+C:\Users\12679\source\repos\MagazineSubscriptions\MagazineSubscriptions\bin\Debug\MagazineSubscriptions.pdb
+C:\Users\12679\source\repos\MagazineSubscriptions\MagazineSubscriptions\obj\Debug\MagazineSubscriptions.csprojAssemblyReference.cache
+C:\Users\12679\source\repos\MagazineSubscriptions\MagazineSubscriptions\obj\Debug\MagazineSubscriptions.csproj.CoreCompileInputs.cache
+C:\Users\12679\source\repos\MagazineSubscriptions\MagazineSubscriptions\obj\Debug\MagazineSubscriptions.exe
+C:\Users\12679\source\repos\MagazineSubscriptions\MagazineSubscriptions\obj\Debug\MagazineSubscriptions.pdb
+C:\Users\12679\source\repos\MagazineSubscriptions\MagazineSubscriptions\bin\Debug\Newtonsoft.Json.dll
+C:\Users\12679\source\repos\MagazineSubscriptions\MagazineSubscriptions\bin\Debug\Newtonsoft.Json.xml
+C:\Users\12679\source\repos\MagazineSubscriptions\MagazineSubscriptions\obj\Debug\MagazineSubscriptions.csproj.CopyComplete
